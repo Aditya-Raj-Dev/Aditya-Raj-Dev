@@ -30,7 +30,7 @@
 
 
 ### 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditya-Raj-Deve&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditya-Raj-Dev&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <a href="https://github.com/Aditya-Raj-Dev/github-readme-stats"><img alt="Aditya rajithub Stats" src="https://github-readme-stats.vercel.app/api?username=Aditya-Raj-Dev&show_icons=true&count_private=true&theme=vision-friendly-dark" height="195px"/></a>
 
