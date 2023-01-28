@@ -36,4 +36,4 @@
 
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
-   <a href="https://github.com/Aditya-Raj-Dev"><img alt="Aditya-Raj-Dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aditya-Raj-Dev&custom_title=Aditya-Raj-Dev's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Aditya-Raj-Dev"><img alt="Aditya-Raj-Dev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-Raj-Dev&custom_title=Aditya-Raj-Dev's%20Contribution%20Graph&theme=react-dark" /></a>
